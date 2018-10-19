@@ -1,2 +1,4 @@
 # planetarium
-This is a space exploration project (test)
+This is a space exploration program (test)
+
+IN SPACE
